@@ -1,5 +1,5 @@
 Project Title: Knee Gears
-Description:
+
 This is my practice project way back summer 2023.
 
 This website is a product showcase of knee gears.
